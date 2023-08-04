@@ -8,21 +8,21 @@
             "collectionId": "Chinese",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Chinese/Chinese_Speech/884a7c3a-6b58-471c-8f24-de426455e1c4/884a7c3a-6b58-471c-8f24-de426455e1c4_zh-CN_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Chinese/884a7c3a-6b58-471c-8f24-de426455e1c4_Ch_Male.mp4"
         },
         {
             "id": "02834313-66b6-48b7-bf97-b073880c6137",
             "collectionId": "Chinese",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Chinese/Chinese_Speech/02834313-66b6-48b7-bf97-b073880c6137/02834313-66b6-48b7-bf97-b073880c6137_zh-CN_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Chinese/02834313-66b6-48b7-bf97-b073880c6137_Ch_Male.mp4"
         },
         {
             "id": "fc691911-ce7d-485b-a20b-90aca3484ac2",
             "collectionId": "Chinese",
             "type": "Speech",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Chinese/Chinese_Speech/fc691911-ce7d-485b-a20b-90aca3484ac2/fc691911-ce7d-485b-a20b-90aca3484ac2_zh-CN_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Chinese/fc691911-ce7d-485b-a20b-90aca3484ac2_Ch_Male.mp4"
         }
     ]
 }
