@@ -1,5 +1,5 @@
 {
-    "count": 3,
+    "count": 4,
     "next": null,
     "previous": null,
     "results": [
@@ -9,6 +9,13 @@
             "type": "Speech",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Chinese/884a7c3a-6b58-471c-8f24-de426455e1c4_ch_Male.mp4"
+        },
+        {
+            "id": "aa73fca7-12dd-4a82-af6c-aacd7d28256b",
+            "collectionId": "Chinese",
+            "type": "Speech",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Speech/Chinese/aa73fca7-12dd-4a82-af6c-aacd7d28256b_ch_Female.mp4"
         },
         {
             "id": "02834313-66b6-48b7-bf97-b073880c6137",
